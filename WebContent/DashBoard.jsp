@@ -162,12 +162,12 @@
 	   	<hr>
 	   	<div class="containerC" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 	   	<pre id="rsv" style="display:none">
-		   <%=TotOFTConVUserData%>
+		   	<%=TotOFTConVUserData%>
 	   	</pre>
 	   	<hr>
 		<div class="containerD" style="min-width: 310px; height: 600px; margin: 0 auto"></div>
 	   	<pre id="psv" style="display:none">
-		   <%=TotSuiteOFTConVUserData%>
+	   		<%=TotSuiteOFTConVUserData%>
 	   	</pre>
 	 	<hr>
 	   	<div class="containerE" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
@@ -187,7 +187,7 @@
 	   	<hr>
 	   	<div class="containerA" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 	   	<pre id="tsv" style="display:none">
-		   <%=DBData%>
+			<%=DBData%>
 	   	</pre>
 	   	<hr>
 	   	<a href="https://wiki.corp.adobe.com/display/Suites/OFT+Dashboard" target=_blank>Click Here for More Info</a>
